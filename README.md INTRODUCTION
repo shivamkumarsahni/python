@@ -1,0 +1,32 @@
+## PYTHON
+# 1.The Language
+Python is one of the world's easiest and most popular programming languages.
+# challenge icon
+# Challenge(beginner)
+Welcome to your first Python program! The code is already written for you.
+# What to do:
+1. Look at the code: print("Hello Python!")
+2. Press the "Run Code" button to execute it
+3. You should see "Hello Python!" appear in the output
+# 2. Hello World!
+The "Hello World!" is a simple program that outputs Hello World! to the screen.
+In Python, we use print() to show words on the screen. The words go inside quotation marks.
+Let's take a look at the "Hello World!" program in Python:
+## print("Hello World!")
+# 3. Comments
+Comments are notes you write inside your code. Python completely ignores them - they exist only to help humans understand the code.
+To write a single-line comment, use the # symbol. Everything after
+# on that line is ignored:
+# This is a comment
+print("Hello!")
+A comment can also be written at the end of a line, after the code:
+print("Hello!")  # This prints Hello!
+For comments that span several lines, use triple quotes (""") before and after the text:
+"""
+This is a multi-line comment.
+Python ignores all of it.
+"""
+print("Welcome!")
+Comments can also temporarily disable a line of code without deleting it:
+# print("This line will NOT run")
+print("This line will run")
